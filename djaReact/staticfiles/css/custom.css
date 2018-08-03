@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #414244;
+    border-radius: 0;
+}
+
+
+h3 {
+    color:red;
+    font-family:italic; 
+}
+p {
+    color:green;
+}
+.carousel-inner img {
+    margin: auto;
+    filter: grayscale(70%); 
+    width: 70%;
+}
+
+.carousel-caption h3 {
+    color:yellow;
+    font-size: 30px;
+}
+
+h2 {
+    color: brown;
+    font-size:40px;
+}
+
